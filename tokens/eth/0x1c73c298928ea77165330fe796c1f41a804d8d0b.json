@@ -1,0 +1,33 @@
+{
+  "symbol": "LAWN",
+  "address": "0x1c73c298928ea77165330fe796c1f41a804d8d0b",
+  "decimals": 18,
+  "name": "LAWN",
+  "ens_address": "",
+  "website": "https://www.comoxvalleylawncare.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "ceo@comoxvalleylawncare.com",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
